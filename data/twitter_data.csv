@@ -1,0 +1,8 @@
+user_id,username,follower_id
+1,User1,2
+2,User2,3
+3,User3,1
+4,User4,2
+5,User5,4
+6,User6,5
+7,User7,6
